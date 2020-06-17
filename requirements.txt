@@ -7,4 +7,4 @@ pymysql==0.9.3
 Pillow==6.0.0
 flask==1.0.2
 requests==2.21.0
-gevent==1.4.0
+gevent==20.6.2
